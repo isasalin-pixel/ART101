@@ -1,0 +1,39 @@
+
+.test-div {
+    background: rgb(192, 122, 224);
+    padding: 20px;
+    margin: 20px;
+}
+
+.test-div {
+    color:aquamarine
+}
+
+.test-div h2 {
+    color: rgb(234, 200, 234);
+}
+
+button.special {
+    background: maroon
+}
+.test-div:hover {
+    background:pink;
+}
+
+#house {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#house {
+    display: flex;
+    flex-direction: row-reverse
+}
+
+h1, h2, h3, h4 {
+    text-decoration: underline;
+}
+
+h2 { color: blue }
+
+div h2 
